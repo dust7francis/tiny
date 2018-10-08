@@ -1,6 +1,6 @@
 {
   "name": "@dust7.francis/tiny",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Removes all spaces from a string",
   "license": "MIT",
   "repository": "dust7francis/tiny",

@@ -1,6 +1,6 @@
 'use strict'
 var expect = require('chai').expect
-var tiny = require('../dist/index.js').default
+var tiny = require('../index.js').default
 
 describe('tiny function test', () => {
     it('should return single-spaced string', () => {
