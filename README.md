@@ -11,7 +11,7 @@ $ npm install dust7francis/tiny
 ## Usage
 
 ```js
-const tiny = require("@dust7francis/tiny")
+const tiny = require("@dust7francis/tiny").default
 
 tiny("Too   much  space!");
 // => "Too much space!"
